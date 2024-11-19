@@ -1,0 +1,64 @@
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{middle-layout.css}
+# jemdoc: nofooter
+= Yuyang Ye
+
+~~~
+{}{img_left}{yeyuyang.jpg}{150}{150}{Yuyang Ye}
+Yuayng Ye, Ph.D., Postdoctoral Researcher \n
+Department of Computer Science and Engineering \n
+[https://www.cuhk.edu.hk/ The Chinese University of Hong Kong (CUHK)] \n
+Supervised by [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu] \n
+Email: yuyangye@cuhk.edu.hk\n
+~~~
+
+== BIOGRAPHY
+ I am Yuyang Ye (叶雨阳 in Chinese), currently a post-doc reseacher at the Department of Computer Science and Engineering,  [https://www.cuhk.edu.hk/ The Chinese University of Hong Kong (CUHK)]. 
+ Prior to that, I got my Ph.D. from [https://www.seu.edu.cn/ Southeast Univeristy (SEU)] in 2024.
+ My research interests include timing analysis, timing optimization and machine learning for EDA.
+
+== RESEARCH INTERESTS
+- Machine Learning for EDA
+- Timing Analysis
+- Timing Optimization
+
+== PUBLICATIONS
+
+* denotes equal contribution, \# denotes corresponding author.
+
+=== Conference Papers
+- \[C13\] Xiangfei Hu, *Yuyang Ye\#*, Tinghuan Chen, Hao Yan, Bei Yu, "Timing-driven Approximate Logic Synthesis Based on Double-chase Grey Wolf Optimizer",  Proceedings Design, Automation and Test in Europe (*DATE*), Lyon, France, Mar. 31–Apr. 02, 2025.
+- \[C12\] Fangzhou Liu, Guannan Guo, *Yuyang Ye*, Ziyi Wang, Wenjie Fu, Weihua Sheng, Bei Yu, "GraphCAD: Leveraging Graph Neural Networks for Accuracy Prediction Handling Crosstalk-affected Delays", ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 12–15, 2025.
+- \[C11\] Peng Xu, Su Zheng, *Yuyang Ye*, Chen Bai, Siyuan Xu, Hao Geng, Tsung-Yi Ho, Bei Yu, "RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), New Jersey, Oct. 27–31, 2024.
+- \[C10\] Zun Xue, Yuchen Liu, *Yuyang Ye*, Tinghuan Chen, Hao Yan, Longxing Shi, "Aging-aware Logic Restructure Acceleration based on Heterogeneous Graph Learning", IEEE International Symposium of EDA (*ISEDA*), May 10–13, 2024.
+- \[C9\] Guoqing He, Wenjie Ding, *Yuyang Ye*, Xu Cheng, Qianqian Song, Peng Cao, "An Optimization-aware Pre-Routing Timing Prediction Framework Based on Heterogeneous Graph Learning", IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Incheon, South Korea, Jan. 22–25, 2024.
+- \[C8\] Xu Cheng, *Yuyang Ye*, Guoqing He, Qianqian Song, Peng Cao, "Statistical Timing Modeling Based on Heterogeneous Graph Attention Network", IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*}), Incheon, South Korea, Jan. 22–25, 2024.
+- \[C7\] Shuaibo Huang, *Yuyang Ye*, Hao Yan, Longxing Shi, "ARS-Flow: A Design Space Exploration Flow for Accelerator-rich System based on Active Learning", IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Incheon, South Korea, Jan. 22–25, 2024.
+- \[C6\] Yunfan Zuo, *Yuyang Ye*, Hongchao Zhang, Tinghuan Chen, Hao Yan, Longxing Shi, "A Graph-learning-driven Prediction Method for Combined Electromigration and Thermomigration Stress on Multi-Segment Interconnects", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, March 25-27, 2024.
+- \[C5\] Yunfan Zuo, *Yuyang Ye*, Hao Yan, Longxing Shi, "Fast and accurate electromigration analysis of multi-segment wires", IEEE International Symposium of EDA (*ISEDA*), Nanjing, China, May 9-11, 2023.
+- \[C4\] *Yuyang Ye*, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, "Fast and Accurate Wire Timing Estimation Based on Graph Learning", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Antwerp, Belgium, April 7-19, 2023.
+- \[C3\] *Yuyang Ye*, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, ``Graph-Learning-Driven Path-Based Timing Analysis Results Predictor from Graph-Based Timing Analysis", IEEE/ACM Asia and South Pacific Design Automation Conference (\textbf{ASPDAC}), Tokyo, Japan, Jan. 16–19, 2023.
+- \[C2\] *Yuyang Ye*, Zonghui Wang, Zun Xue, Ziqi Wang, Hao Yan, ``FPGNN-ATPG: An Efficient Fault Parallel Automatic Test Pattern Generator", ACM Proceedings of the Great Lakes Symposium on VLSI (*GLSVLSI*), Knoxville, USA, June 5-7, 2023.
+- \[C1\] Leyun Tian, *Yuyang Ye*, Hao Yan, "GNN-based TICER for RC Reduction on Large-scale Interconnect”, IEEE International Conference on Solid-State Integrated Circuit Technology (*ICSICT*), Nanjing, China, Oct. 17-19, 2022.
+
+=== Journal Papers
+- \[J6\] *Yuyang Ye*, Peng Xu, Lizheng Ren, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, "Learning-driven Physically-aware Large-scale Circuit Gate Sizing", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J5\] *Yuyang Ye*, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, "Timing-driven Technology Mapping Approximation Based on Reinforcement Learning", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J4\] Tianzhu Xiong, *Yuyang Ye*, Xin Si, Jun Yang, "A Hybrid Domain And Pipelined Analog Computing Chain For MVM Computation", accepted by IEEE Transactions on Very Large Scale Integration Systems (*TVLSI*).
+- \[J3\] Qian Chen, *Yuyang Ye*, Meng Li, Hao Yan, Longxing Shi, "Optimized matrix ordering of sparse linear solver using a few-shot model for circuit simulation", accepted by Integration, the VLSI Journal (*Integration*).
+- \[J2\] *Yuyang Ye*, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, "Aging-aware Critical Path Selection via Graph Attention Networks", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J1\] *Yuyang Ye*, Tinghuan Chen, Zicheng Wang, Hao Yan, Bei Yu, Longxing Shi, "Fast and Accurate Aging-aware Cell Timing Model via Graph Learning", accepted by IEEE Transactions on Circuits and Systems II (*TCASII*).
+ 
+
+== SELECTED AWARDS
+- Best Ph.D. Dissertation, EDA Ecosystem Development Acceleartor, 2024.
+- National Endeavour Scholarship, Ministry of Education of China, 2023.
+- Qilin cup (1/307), EDA Elite Challenge, 2020.
+
+
+
+== SERVICES
+=== Journal Reviewer
+- [https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems] (TCAD)
+
+
